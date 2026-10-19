@@ -260,7 +260,7 @@ El programa realiza las transformaciones y obtiene una gramática equivalente a 
 
 ## Video
 
-
+https://youtu.be/3UQtOxobXrw
 
 ---
 
